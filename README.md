@@ -16,9 +16,10 @@ Create A Virtual Machine within Microsoft Azure.
 </p>
 <br />
 <br />
-
+<b> Once the virtual machine is created, next step is to log into virtual machine by using the Windows RDP (Remote Desktop) application. 
+</b>
 <p align="center">
-<img src="https://i.imgur.com/nBld07h.png"(https://i.imgur.com/nBld07h.png) alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/ZSG8kuB.png"(https://i.imgur.com/ZSG8kuB.png) alt="Once the virtual machine is created, next step is to log into virtual machine by using the Windows RDP (Remote Desktop) application"/>
 </p>
 <h2>Languages Used</h2>
 

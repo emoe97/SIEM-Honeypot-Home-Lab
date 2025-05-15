@@ -17,7 +17,7 @@
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 <br />
 <br />
-Create A Virtual Machine within Microsoft Azure.
+<b>Create A Virtual Machine within Microsoft Azure.</b>
 <p align="center">
 <img src="https://i.imgur.com/xtwNPvQ.png"(https://i.imgur.com/xtwNPvQ.png) alt="Create Virtual Machine within Microsoft Azure"/>
 </p>
@@ -28,8 +28,16 @@ Create A Virtual Machine within Microsoft Azure.
 <p align="center">
 <img src="https://i.imgur.com/ZSG8kuB.png"(https://i.imgur.com/ZSG8kuB.png) alt="Once the virtual machine is created, next step is to log into virtual machine by using the Windows RDP (Remote Desktop) application"/>
 </p>
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
-
+<br />
+<br />
+<b> Geolocation API is used to get a return of the latitude and longitude of the cybercriminals based off their IP Address. 
+</b>
+<p align="center">
+<img src="https://i.imgur.com/uEvouLW.png"(https://i.imgur.com/uEvouLW.png) alt="Geolocation API is used to get a return of the latitude and longitude of the cybercriminals based off their IP Address."/>
+</p>
+<br />
+<br />
+<b>Attacks from China coming in; Custom logs being output with geodata</b>
 <p align="center">
 <img src="https://i.imgur.com/qaWjV2c.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>

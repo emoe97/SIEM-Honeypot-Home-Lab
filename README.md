@@ -42,7 +42,7 @@
 <img src="https://i.imgur.com/qaWjV2c.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+<b>World map of incoming attacks after 24 hours (built custom logs including geodata)</b>
 
 <p align="center">
 <img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>

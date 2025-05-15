@@ -6,11 +6,14 @@
 
 
 <h2>Description</h2>
-<b> In this lab, I have been tasked with helping connect a office network for a small insurance agency. The office has two wired PC's that need to be connected to the network. My job will be to connect the devices, implement a basic configuration, and verify connectivity. 
+<b> In this lab, I created a Honeypot using Microsoft Azure to trap cybercriminals and log the geolocation of the attacker on a world map. 
 </b>
 <br />
 <br />
-Using the Addressing Table, I will assign static IPV4 addressing information to the PC interfaces. 
+Create A Virtual Machine within Microsoft Azure.
+<p align="center">
+<img src="https://i.imgur.com/xtwNPvQ.png"(https://i.imgur.com/xtwNPvQ.png) alt="Create Virtual Machine within Microsoft Azure"/>
+</p>
 <br />
 <br />
 
